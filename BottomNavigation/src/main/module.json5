@@ -1,0 +1,11 @@
+{
+  "module": {
+    "name": "BottomNavigation",
+    "type": "har",
+    "deviceTypes": [
+      "phone",
+      "tablet"
+    ],
+    "uiSyntax": "ets"
+  }
+}
