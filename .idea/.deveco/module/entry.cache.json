@@ -1,0 +1,14 @@
+{
+	"BuildOptions":{
+		"SELECT_BUILD_TARGET":"default",
+		"BUILD_PATH":{
+			"OUTPUT_PATH":"F:\\DevEcoStudioProjects\\BottomNavigation\\entry\\build\\default\\outputs\\default",
+			"RES_PATH":"F:\\DevEcoStudioProjects\\BottomNavigation\\entry\\build\\default\\intermediates\\res\\default",
+			"ETS_SUPER_VISUAL_PATH":"F:\\DevEcoStudioProjects\\BottomNavigation\\entry\\build\\default\\cache\\default\\CompileETS",
+			"JS_ASSETS_PATH":"F:\\DevEcoStudioProjects\\BottomNavigation\\entry\\build\\default\\intermediates\\assets\\default",
+			"RES_PROFILE_PATH":"F:\\DevEcoStudioProjects\\BottomNavigation\\entry\\build\\default\\intermediates\\res\\default\\resources\\base\\profile",
+			"WORKER_LOADER":"F:\\DevEcoStudioProjects\\BottomNavigation\\entry\\build\\default\\intermediates\\loader\\default\\loader.json",
+			"MANIFEST_JSON":"F:\\DevEcoStudioProjects\\BottomNavigation\\entry\\build\\default\\intermediates\\manifest\\default"
+		}
+	}
+}

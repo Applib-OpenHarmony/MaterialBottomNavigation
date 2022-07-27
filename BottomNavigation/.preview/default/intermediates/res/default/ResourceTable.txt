@@ -1,0 +1,7 @@
+string page_show 0x01000000
+media bookmarks 0x01000001
+media cart 0x01000002
+media categories 0x01000003
+media favorites 0x01000004
+media home 0x01000005
+media notifications 0x01000006
